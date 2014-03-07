@@ -10,7 +10,7 @@ setup(
         url='http://pypi.python.org/pypi/sockmonkey/',
         license='LICENSE',
         description='A tool for identifying potential sockpuppet reddit accounts',
-        long_description=open('README.md').read(),
+        long_description=open('README.txt').read(),
         install_requires=[
             "nltk == 2.0.4",
             "numpy == 1.8.0",
