@@ -1,4 +1,4 @@
 .PHONY: test
 
 test:
-	pyvows test/
+	pyvows sockmonkey/test
