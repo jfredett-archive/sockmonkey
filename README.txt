@@ -1,4 +1,6 @@
-# sockmonkey
+==========
+sockmonkey
+==========
 
 First and foremost, and experiment in python and natural language processing.
 
@@ -13,11 +15,13 @@ this pattern of behavior and represent it statistically. Once we have a
 statistical representation, we should be able to derive a metric for determining
 the similarity between two users.
 
-## WARNING
+WARNING
+=======
 
 This software is experimental, don't use it.
 
-## License
+License
+=======
 
 This software is released under the terms of the MIT license, see LICENSE for
 details.
